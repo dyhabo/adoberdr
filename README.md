@@ -5,5 +5,6 @@ The run command below details the launch command for the container. Ensure xsrv 
 ```
 docker run -e \
   DISPLAY=your.wsl.ip.address:0 \
-  -v C:\Users\dyhabo\PDFshare\:\docs adoberdr
+  -v C:\Users\dyhabo\PDFshare\:\docs \
+  adoberdr
 ```
