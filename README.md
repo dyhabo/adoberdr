@@ -1,5 +1,5 @@
 # adoberdr
-Docker container for Adobe Reader 9.5.5
+Docker container for Adobe Reader 9.5.5 running on Ubuntu.
 
 Pull image:
 ```
